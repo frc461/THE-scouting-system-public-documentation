@@ -4,7 +4,7 @@
 > If you are not the Scout Master, this piece of documentation would not be very helpful for you. 
 > 
 > If you wish to read on, feel free to do so. 
-> If you are here for general scouting, checkout the [Quick Start Guide](QUICK_START.md)
+> If you are here for general scouting, checkout the [Quick Start Guide](README.md)
 
 ## Setting Up a New Game
 
